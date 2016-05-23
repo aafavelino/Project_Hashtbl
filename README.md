@@ -42,4 +42,5 @@ g++ -std=c++11 -pedantic -I include/ src/pgm_ht.cpp -o bin/exe3 -D TIPO3 && ./bi
 
 ## Autores
 Adelino Afonso Fernandes Avelino
+
 Irene Ginani Costa Pinheiro
